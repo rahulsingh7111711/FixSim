@@ -27,7 +27,7 @@ FixSim is a simulated trading environment that mimics FIX 4.4 protocol communica
 pip install streamlit
 ```
 
-To Run Desktop GUI
+## To Run Desktop GUI
 
 python fix_gui.py
 
